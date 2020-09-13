@@ -1,0 +1,25 @@
+.header__lang-link {
+    margin: 0;
+    font-size: 24px;
+    line-height: 28px;
+    /* text-align: right; */
+    color: white;
+    text-decoration: none;
+    outline: 1px solid red;
+}
+
+.header__lang-link:last-child {
+    margin-left: 18px;
+}
+
+.header__lang-link:focus {
+text-decoration-line: underline;
+}
+
+@media screen and (max-width:768px) {
+    .header__lang-link {
+        font-size: 18px;
+        outline: solid seagreen 1px;
+    
+    }
+}

@@ -1,0 +1,12 @@
+/* @import url(../../fonts/fonts.css); */
+.root {
+    margin: 0 auto;
+    padding: 0px;
+    max-width: 1440px;
+    min-width: 320px;
+    font-family:"Inter";
+    /* font-style: normal; */
+    /* font-weight: lighter; */
+    background-color:  #2A2C2F;
+    color: white;    
+}

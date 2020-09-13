@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    /* flex-direction: row; */
+    padding: 92px 48px 24px;
+    margin: 0px;
+    border: orange 1px solid;
+    align-items: flex-end;
+}
+
+@media screen and (max-width:767px) {
+ .footer {
+     flex-direction: column;
+     padding: 64px 16px 24px;
+ }
+}

@@ -1,0 +1,25 @@
+.header{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    max-width: 100%;
+    padding: 28px 48px 0;
+    height: 52px;
+    outline: 2px solid red;    
+}
+
+@media screen and (max-width:768px) {
+    .header {
+        height: 42px;
+        outline: yellow 1px solid;
+        padding: 16px 16px 0;
+    }
+}
+@media screen and (max-width:1024px) {
+    .header {
+        padding: 28px 24px 0;
+        /* outline: white 1px solid; */
+    }
+}
