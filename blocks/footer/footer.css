@@ -5,6 +5,7 @@
     margin: 0px;
     border: orange 1px solid;
     align-items: flex-end;
+    font-weight: 400;
 }
 
 @media screen and (max-width:767px) {

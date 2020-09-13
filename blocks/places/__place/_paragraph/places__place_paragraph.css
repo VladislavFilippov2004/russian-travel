@@ -2,6 +2,7 @@
     margin: 0;
     font-size: 18px;
     line-height: 167%;
+    font-weight: 400;
 }
 
 .places__place_paragraph:nth-child(2) {
