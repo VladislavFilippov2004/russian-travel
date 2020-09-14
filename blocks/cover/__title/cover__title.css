@@ -4,13 +4,14 @@
     line-height: 106%;
     margin: 0;
     text-align: center;
-    border:orangered 1px solid;
+    color: white;
+    /* border:orangered 1px solid; */
 }
 
 @media screen and (max-width:500px) {
     .cover__title {
         font-size: 32px;
         line-height: 109%;
-        color: orangered;
+        /* color: orangered; */
     }
 }

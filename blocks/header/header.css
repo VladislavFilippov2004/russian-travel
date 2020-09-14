@@ -7,13 +7,12 @@
     max-width: 100%;
     padding: 28px 48px 0;
     height: 52px;
-    outline: 2px solid red;    
+     
 }
 
 @media screen and (max-width:768px) {
     .header {
         height: 42px;
-        outline: yellow 1px solid;
         padding: 16px 16px 0;
     }
 }

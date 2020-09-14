@@ -3,7 +3,6 @@
     margin: 92px 0 0 148px;
     max-width: 690px;
     min-width: 288px;
-    border: 1px solid gold;
 }
 
 @media screen and (max-width: 1024px) {
@@ -21,6 +20,5 @@
 @media screen and (max-width: 320px) {
     .intro {
         margin: 64px 16px 0;
-        background-color: green;
     }
 }
