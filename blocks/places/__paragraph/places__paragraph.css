@@ -3,6 +3,9 @@
     font-size: 18px;
     line-height: 167%;
     font-weight: 400;
+    max-width: 484px;
+    min-width: 288px;
+    /* outline: orange 1px solid; */
 }
 
 .places__paragraph:nth-child(2) {

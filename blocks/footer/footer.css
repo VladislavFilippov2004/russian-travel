@@ -1,15 +1,21 @@
 .footer {
     display: flex;
-    /* flex-direction: row; */
+    flex-direction: row;
     padding: 92px 48px 24px;
-    margin: 0px;
-    align-items: flex-end;
+    justify-content: space-between;
+    margin: 0px; 
     font-weight: 400;
+    /* outline: orange 1px solid; */
 }
 
+@media screen and (max-width:900px) {
+    .footer {
+        padding: 88px 24px 24px 24px;
+    }
+}
 @media screen and (max-width:767px) {
  .footer {
      flex-direction: column;
-     padding: 64px 16px 24px;
+     padding: 64px 16px 24px 0;
  }
 }

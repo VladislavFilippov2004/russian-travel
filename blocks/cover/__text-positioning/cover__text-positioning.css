@@ -1,10 +1,9 @@
 .cover__text-positioning {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 50%;
-    transform: translate(0, -50%);
+    /* border: 3px green solid; */
+    /* position: relative; */
+    /* transform: translate(0, -50%); */
     z-index: 2;
-}
+} 

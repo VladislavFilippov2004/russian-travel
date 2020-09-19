@@ -2,23 +2,26 @@
     font-size: 72px;
     font-weight: 900;
     line-height: 106%;
-    margin: 0;
+    /* grid-column-start: 1; */
+    /* grid-column-end: 2; */
+    margin: 0 0 0 0;
     padding: 0;
+    /* outline: green 1px solid; */
     text-justify: distribute;
 }
 
-.places__title:nth-child(n+2) {
+/* .places__title:nth-child(n+2) {
     margin-top: 32px;
-}
+} */
 
 @media screen and (max-width:767px) {
     .places__title {
         font-size: 42px;
         line-height: 110%;
     }
-    .places__title:nth-child(n+2) {
+    /* .places__title:nth-child(n+2) {
         margin-top: 24px;
-    }
+    } */
 }
 
 @media screen and (max-width:320px) {
@@ -27,7 +30,7 @@
         font-size: 32px;
         line-height: 109%;
     }
-    .places__title:nth-child(n+2) {
+    /* .places__title:nth-child(n+2) {
         margin-top: 16px;
-    }
+    } */
 }
