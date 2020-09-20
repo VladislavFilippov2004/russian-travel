@@ -4,8 +4,8 @@
     /* border: red 1px solid; */
     padding: 0px;
     margin: 0px;
-    /* display: flex;
-    flex-direction: row; */
+    display: flex;
+    flex-direction: row;
 }
 
 
@@ -13,5 +13,6 @@
 @media screen and (max-width: 767px) {
     .footer__links {
         margin: 64px 118px 0 16px;
+        flex-direction: column;
     }
 }
