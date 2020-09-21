@@ -4,6 +4,7 @@
     grid-template-rows: auto;
     gap: 48px 40px;
     margin-top: 80px;
+    /* border: yellow 1px solid; */
 }
 .places__item:nth-child(1) {
     margin:0;

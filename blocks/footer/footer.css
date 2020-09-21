@@ -5,7 +5,7 @@
     justify-content: space-between;
     margin: 0px; 
     font-weight: 400;
-    /* outline: orange 1px solid; */
+    /* border: orange 5px solid; */
 }
 
 @media screen and (max-width:900px) {
