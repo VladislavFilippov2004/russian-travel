@@ -12,7 +12,6 @@
 @media screen and (max-width:1030px) {
     .header {
         padding: 28px 48px 0;
-        /* outline: white 1px solid; */
     }
 }
 
@@ -20,6 +19,5 @@
     .header {
         min-height: 42px;
         padding: 28px 24px 0;
-        /* background-color: tomato; */
     }
 }

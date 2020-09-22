@@ -8,7 +8,6 @@
     min-width: 288px;
     max-width: 560px;
     color: white;
-    /* border:orangered 1px solid; */
     text-decoration-line: none;
 }
 
@@ -16,6 +15,5 @@
     .cover__title {
         font-size: 32px;
         line-height: 109%;
-        /* color: orangered; */
     }
 }

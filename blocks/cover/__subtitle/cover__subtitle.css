@@ -6,13 +6,11 @@
     align-self: center;
     text-align: center;
     color: white;
-    /* border: royalblue 1px solid;  */
 }
 
 @media screen and (max-width:550px) {
     .cover__subtitle {
         font-size: 14px;
         line-height: 114%;
-        /* color: orangered; */
     }
 }
