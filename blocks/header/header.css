@@ -9,17 +9,17 @@
     min-height: 52px;
      
 }
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1030px) {
     .header {
-        padding: 48px 24px 0;
+        padding: 28px 48px 0;
         /* outline: white 1px solid; */
     }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:775px) {
     .header {
         min-height: 42px;
-        padding: 16px 16px 0;
+        padding: 28px 24px 0;
         /* background-color: tomato; */
     }
 }

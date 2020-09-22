@@ -8,5 +8,11 @@
     margin-left: 0;
 }
 
+@media screen and (max-width:766px) {
+    .footer__link {
+        margin: 0px;
+    }
+}
+
 
 
