@@ -1,6 +1,6 @@
 .cover__text-positioning {
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
     justify-content: center;
     z-index: 2;
-} 
+}

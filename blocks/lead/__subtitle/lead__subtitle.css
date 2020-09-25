@@ -6,8 +6,8 @@
     color: #FFFFFF;
     text-align: center;
     font-weight: 400;
-    max-width:640px ;
-    min-width:267px;
+    max-width: 640px;
+    min-width: 267px;
 }
 
 @media screen and (max-width: 767px) {

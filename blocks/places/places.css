@@ -4,9 +4,9 @@
 }
 
 @media screen and (max-width:1100px) {
-   .places { 
-       padding: 92px 48px 0;
-   }
+    .places {
+        padding: 92px 48px 0;
+    }
 }
 
 @media screen and (max-width:1023px) {

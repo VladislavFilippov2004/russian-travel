@@ -1,4 +1,4 @@
-.header{
+.header {
     margin: 0 auto;
     display: flex;
     flex-direction: row;
@@ -7,8 +7,8 @@
     max-width: 100%;
     padding: 28px 48px 0;
     min-height: 52px;
-     
 }
+
 @media screen and (max-width:1030px) {
     .header {
         padding: 28px 48px 0;
